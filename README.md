@@ -12,3 +12,4 @@ mine only and may or may not even be correct.
 
   * [Question 1](./q_001/README.md)
   * [Question 2](./q_002/README.md)
+  * [Question 3](./q_003/README.md)
