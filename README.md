@@ -17,3 +17,4 @@ mine only and may or may not even be correct.
   * [Question 5](./q_005/README.md)
   * [Question 6](./q_006/README.md)
   * [Question 7](./q_007/README.md)
+  * [Question 8](./q_008/README.md)
