@@ -25,4 +25,5 @@ mine only and may or may not even be correct.
   * [Question 13 - Cleaning and analyzing employee data](./q_013/README.md)
   * [Question 14 - Popular songs](./q_014/README.md)
   * [Question 15 - Drawing cards from a standard deck](./q_015/README.md)
+  * [Question 16 - Points within an interval](./q_016/README.md)
   * [Question 17 - Analyzing employee data using Python](./q_017/README.md)
