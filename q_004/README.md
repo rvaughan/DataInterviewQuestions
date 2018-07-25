@@ -3,15 +3,13 @@
 Below is a table schema for a P2P messaging application. The table contains
 send/receive message data for the application's users.
 
-```bash        
-table name: user_messaging
+**table name:** user_messaging
 
-     time_stamp (integer)             # timestamp, epoch seconds
-
-     sender_id (integer)              # id of the message sender
-        
-     receiver_id (integer)            # id of the message receiver
-```        
+| field | data type | description |
+|-------|-----------|-------------|
+| time_stamp | integer | timestamp, epoch seconds |
+| sender_id | integer | id of the message sender |
+| receiver_id | integer | id of the message receiver |
 
 ## Questions
 
