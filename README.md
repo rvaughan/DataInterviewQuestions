@@ -28,3 +28,4 @@ mine only and may or may not even be correct.
   * [Question 16 - Points within an interval](./q_016/README.md)
   * [Question 17 - Analyzing employee data using Python](./q_017/README.md)
   * [Question 18 - A hotel chain's loyal customers](./q_018/README.md)
+  * [Question 19 - New strain of flu](./q_019/README.md)
