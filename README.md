@@ -30,3 +30,4 @@ mine only and may or may not even be correct.
   * [Question 18 - A hotel chain's loyal customers](./q_018/README.md)
   * [Question 19 - New strain of flu](./q_019/README.md)
   * [Question 20 - One edit away](./q_020/README.md)
+  * [Question 21 - Expanding a data set](./q_021/README.md)
