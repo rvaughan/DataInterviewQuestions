@@ -33,3 +33,4 @@ mine only and may or may not even be correct.
   * [Question 21 - Expanding a data set](./q_021/README.md)
   * [Question 22 - Picking a survey group](./q_022/README.md)
   * [Question 23 - Drawing cards from a standard deck, once more](./q_023/README.md)
+  * [Question 25 - Application feedback](./q_025/README.md)
