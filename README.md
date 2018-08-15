@@ -36,3 +36,4 @@ mine only and may or may not even be correct.
   * [Question 24 - ???](./q_024/README.md)
   * [Question 25 - Application feedback](./q_025/README.md)
   * [Question 26 - Is red independent from an ace?](./q_026/README.md)
+  * [Question 27 - Property revenue across cities)](./q_027/README.md)
