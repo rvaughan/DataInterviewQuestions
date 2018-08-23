@@ -39,3 +39,4 @@ mine only and may or may not even be correct.
   * [Question 27 - Property revenue across cities)](./q_027/README.md)
   * [Question 28 - Winning the lottery)](./q_028/README.md)
   * [Question 29 - American Football Scoring)](./q_029/README.md)
+  * [Question 30 - Assigning grades)](./q_030/README.md)
