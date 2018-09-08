@@ -1,0 +1,17 @@
+INSERT INTO survey_logging VALUES(123, 'view', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(123, 'answer', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(123, 'skip', 2, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'view', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'answer', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'skip', 2, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'view', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(123, 'answer', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(123, 'skip', 2, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'view', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'answer', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(321, 'skip', 2, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(456, 'view', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(456, 'answer', 1, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(456, 'skip', 2, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(456, 'view', 3, 1, "2018-03-01 09:00");
+INSERT INTO survey_logging VALUES(456, 'answer', 3, 1, "2018-03-01 09:00");
