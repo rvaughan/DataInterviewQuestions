@@ -42,3 +42,4 @@ mine only and may or may not even be correct.
   * [Question 30 - Assigning grades)](./q_030/README.md)
   * [Question 31 - Life expectancy)](./q_031/README.md)
   * [Question 32 - Revenue per employee)](./q_032/README.md)
+  * [Question 33 - Testing a claim around student intelligence)](./q_033/README.md)
