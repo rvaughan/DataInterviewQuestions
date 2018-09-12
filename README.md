@@ -48,3 +48,4 @@ mine only and may or may not even be correct.
   * [Question 36 - Rolling to win!)](./q_036/README.md)
   * [Question 37 - Employees who are managers)](./q_037/README.md)
   * [Question 38 - Calculating earnings with Python)](./q_038/README.md)
+  * [Question 39 - Normalizing student grades with Pandas)](./q_039/README.md)
