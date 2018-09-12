@@ -44,3 +44,4 @@ mine only and may or may not even be correct.
   * [Question 32 - Revenue per employee)](./q_032/README.md)
   * [Question 33 - Testing a claim around student intelligence)](./q_033/README.md)
   * [Question 34 - Identifying prime numbers with Python)](./q_034/README.md)
+  * [Question 35 - Filtering student information with Pandas)](./q_035/README.md)
