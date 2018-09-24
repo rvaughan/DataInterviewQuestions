@@ -52,3 +52,4 @@ mine only and may or may not even be correct.
   * [Question 40 - Calculating monthly revenue growth in SQL)](./q_040/README.md)
   * [Question 41 - Rolling dice to win...again)](./q_041/README.md)
   * [Question 42 - Sentiment analysis for app reviews](./q_042/README.md)
+  * [Question 43 - Revenue trends for online vs. in store channels](./q_043/README.md)
