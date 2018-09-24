@@ -51,3 +51,4 @@ mine only and may or may not even be correct.
   * [Question 39 - Normalizing student grades with Pandas)](./q_039/README.md)
   * [Question 40 - Calculating monthly revenue growth in SQL)](./q_040/README.md)
   * [Question 41 - Rolling dice to win...again)](./q_041/README.md)
+  * [Question 42 - Sentiment analysis for app reviews](./q_042/README.md)
