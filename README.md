@@ -54,3 +54,4 @@ mine only and may or may not even be correct.
   * [Question 42 - Sentiment analysis for app reviews](./q_042/README.md)
   * [Question 43 - Revenue trends for online vs. in store channels](./q_043/README.md)
   * [Question 44 - Joining to get total sales, a SQL problem](./q_044/README.md)
+  * [Question 45 - Defective gaskets](./q_045/README.md)
