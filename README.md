@@ -58,3 +58,4 @@ mine only and may or may not even be correct.
   * [Question 46 - Smallest missing number in array](./q_046/README.md)
   * [Question 47 - Bayes' Theorem](./q_047/README.md)
   * [Question 49 - ???](./q_049/README.md)
+  * [Question 50 - Python function to count tuple elements](./q_050/README.md)
