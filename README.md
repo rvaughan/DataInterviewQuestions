@@ -68,3 +68,6 @@ mine only and may or may not even be correct.
   * [Question 56 - Twitch content creators](./q_056/README.md)
   * [Question 57 - Probability of selecting a wardrobe](./q_057/README.md)
   * [Question 58 - Longest palindrome substring](./q_058/README.md)
+  * [Question 59 - ???](./q_059/README.md)
+  * [Question 60 - ???](./q_060/README.md)
+  * [Question 61 - ???](./q_061/README.md)
