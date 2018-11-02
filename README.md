@@ -8,6 +8,10 @@ provide my answers for each of them - mostly as a self improvement exercise.
 which I don't subscribe to - therefore, the any answers in this repository are
 mine only and may or may not even be correct.
 
+**Note:** The mailings do not always seem to make it to me, so where I don't
+have the data for the problem I will leave a marker, the intention being to fill
+the details in later if I manage to get hold of it.
+
 ## Questions
 
   * [Question 1 - Fradulent retail accounts](./q_001/README.md)
