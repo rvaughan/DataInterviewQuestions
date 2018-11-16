@@ -79,3 +79,5 @@ the details in later if I manage to get hold of it.
   * [Question 63 - Baby names](./q_063/README.md)
   * [Question 64 - Reddit posts and comments](./q_064/README.md)
   * [Question 65 - Rolling 10 times](./q_065/README.md)
+  * [Question 66 - ???](./q_066/README.md)
+  * [Question 67 - ???](./q_067/README.md)
