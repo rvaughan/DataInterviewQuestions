@@ -81,3 +81,4 @@ the details in later if I manage to get hold of it.
   * [Question 65 - Rolling 10 times](./q_065/README.md)
   * [Question 66 - ???](./q_066/README.md)
   * [Question 67 - Drop rows in dataframe that are between two dates](./q_067/README.md)
+  * [Question 68 - Type I vs Type II error](./q_068/README.md)
