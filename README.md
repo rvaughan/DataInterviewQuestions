@@ -83,3 +83,4 @@ the details in later if I manage to get hold of it.
   * [Question 67 - Drop rows in dataframe that are between two dates](./q_067/README.md)
   * [Question 68 - Type I vs Type II error](./q_068/README.md)
   * [Question 69 - Airbnb stays by country](./q_069/README.md)
+  * [Question 70 - Stepping through nested while loops in Python](./q_070/README.md)
