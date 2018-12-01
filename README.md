@@ -86,3 +86,4 @@ the details in later if I manage to get hold of it.
   * [Question 70 - Stepping through nested while loops in Python](./q_070/README.md)
   * [Question 71 - Employee tenure](./q_071/README.md)
   * [Question 72 - Shoe prices](./q_072/README.md)
+  * [Question 73 - Testing the toxicity of water](./q_073/README.md)
