@@ -87,3 +87,5 @@ the details in later if I manage to get hold of it.
   * [Question 71 - Employee tenure](./q_071/README.md)
   * [Question 72 - Shoe prices](./q_072/README.md)
   * [Question 73 - Testing the toxicity of water](./q_073/README.md)
+  * [Question 74 - ???](./q_074/README.md)
+  * [Question 75 - Retail revenue trends](./q_075/README.md)
