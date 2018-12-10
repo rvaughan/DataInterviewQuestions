@@ -90,3 +90,4 @@ the details in later if I manage to get hold of it.
   * [Question 74 - Temperature Conversion](./q_074/README.md)
   * [Question 75 - Retail revenue trends](./q_075/README.md)
   * [Question 76 - Resampling](./q_076/README.md)
+  * [Question 77 - State populations](./q_077/README.md)
