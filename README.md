@@ -92,4 +92,5 @@ the details in later if I manage to get hold of it.
   * [Question 76 - Resampling](./q_076/README.md)
   * [Question 77 - State populations](./q_077/README.md)
   * [Question 78 - Largest elements in an array](./q_078/README.md)
-  * [Question 77 - Channel attribution](./q_079/README.md)
+  * [Question 79 - Channel attribution](./q_079/README.md)
+  * [Question 79 - Days to first sale](./q_080/README.md)
