@@ -95,3 +95,4 @@ the details in later if I manage to get hold of it.
   * [Question 79 - Channel attribution](./q_079/README.md)
   * [Question 80 - Days to first sale](./q_080/README.md)
   * [Question 81 - Relationship between fitness and smoking](./q_081/README.md)
+  * [Question 82 - Relationship between fitness and smoking](./q_082/README.md)
