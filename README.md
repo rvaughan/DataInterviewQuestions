@@ -97,3 +97,4 @@ the details in later if I manage to get hold of it.
   * [Question 81 - Relationship between fitness and smoking](./q_081/README.md)
   * [Question 82 - Count of Triplet](./q_082/README.md)
   * [Question 83 - ???](./q_083/README.md)
+  * [Question 84 - In SQL, 0 = 0?](./q_084/README.md)
