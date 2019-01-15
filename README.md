@@ -101,3 +101,7 @@ the details in later if I manage to get hold of it.
   * [Question 85 - Testing user conversion](./q_085/README.md)
   * [Question 86 - Alternative array sorting](./q_086/README.md)
   * [Question 87 - Best ad group](./q_087/README.md)
+  * [Question 88 - ???](./q_088/README.md)
+  * [Question 89 - Confidence intervals for a dataset](./q_089/README.md)
+  * [Question 90 - Spiral matrix](./q_090/README.md)
+  * [Question 91 - Replacing bad data with Pandas](./q_091/README.md)
