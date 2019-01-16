@@ -105,3 +105,4 @@ the details in later if I manage to get hold of it.
   * [Question 89 - Confidence intervals for a dataset](./q_089/README.md)
   * [Question 90 - Spiral matrix](./q_090/README.md)
   * [Question 91 - Replacing bad data with Pandas](./q_091/README.md)
+  * [Question 92 - SQL Patterns](./q_092/README.md)
