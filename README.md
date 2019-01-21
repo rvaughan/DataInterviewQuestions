@@ -107,3 +107,4 @@ the details in later if I manage to get hold of it.
   * [Question 91 - Replacing bad data with Pandas](./q_091/README.md)
   * [Question 92 - SQL Patterns](./q_092/README.md)
   * [Question 93 - Rental Car Locations](./q_093/README.md)
+  * [Question 94 - Reverse it](./q_094/README.md)
