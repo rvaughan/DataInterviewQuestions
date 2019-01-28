@@ -110,4 +110,5 @@ the details in later if I manage to get hold of it.
   * [Question 94 - Reverse it](./q_094/README.md)
   * [Question 95 - User messaging](./q_095/README.md)
   * [Question 96 - Tallying up absent students using SQL](./q_096/README.md)
+  * [Question 97 - Life expectancy, revisited](./q_097/README.md)
 
