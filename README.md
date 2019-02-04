@@ -61,7 +61,7 @@ the details in later if I manage to get hold of it.
   * [Question 45 - Defective gaskets](./q_045/README.md)
   * [Question 46 - Smallest missing number in array](./q_046/README.md)
   * [Question 47 - Bayes' Theorem](./q_047/README.md)
-  * [Question 48 - ???](./q_048/README.md)
+  * [Question 48 - Top selling products](./q_048/README.md)
   * [Question 49 - Skittles from a bag](./q_049/README.md)
   * [Question 50 - Python function to count tuple elements](./q_050/README.md)
   * [Question 51 - ???](./q_051/README.md)
