@@ -113,3 +113,4 @@ the details in later if I manage to get hold of it.
   * [Question 97 - Life expectancy, revisited](./q_097/README.md)
   * [Question 98 - Counting numbers, letters, and other things from a text file](./q_098/README.md)
   * [Question 99 - ???](./q_099/README.md)
+  * [Question 100 - ???](./q_100/README.md)
