@@ -64,7 +64,7 @@ the details in later if I manage to get hold of it.
   * [Question 48 - Top selling products](./q_048/README.md)
   * [Question 49 - Skittles from a bag](./q_049/README.md)
   * [Question 50 - Python function to count tuple elements](./q_050/README.md)
-  * [Question 51 - ???](./q_051/README.md)
+  * [Question 51 - Counting capital letters](./q_051/README.md)
   * [Question 52 - ???](./q_052/README.md)
   * [Question 53 - ???](./q_053/README.md)
   * [Question 54 - ???](./q_054/README.md)
