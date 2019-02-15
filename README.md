@@ -66,7 +66,7 @@ the details in later if I manage to get hold of it.
   * [Question 50 - Python function to count tuple elements](./q_050/README.md)
   * [Question 51 - Counting capital letters](./q_051/README.md)
   * [Question 52 - Naive Bayes](./q_052/README.md)
-  * [Question 53 - ???](./q_053/README.md)
+  * [Question 53 - Planning for a new office location, using SQL](./q_053/README.md)
   * [Question 54 - ???](./q_054/README.md)
   * [Question 55 - ???](./q_055/README.md)
   * [Question 56 - Twitch content creators](./q_056/README.md)
