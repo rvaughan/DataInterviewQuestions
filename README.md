@@ -120,3 +120,4 @@ the details in later if I manage to get hold of it.
   * [Question 104 - Termination survey data](./q_104/README.md)
   * [Question 105 - ???](./q_105/README.md)
   * [Question 106 - Histogram of years worked](./q_106/README.md)
+  * [Question 107 - Customer recency (a multi-question problem)](./q_107/README.md)
