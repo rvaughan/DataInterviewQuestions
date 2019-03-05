@@ -73,7 +73,7 @@ the details in later if I manage to get hold of it.
   * [Question 57 - Probability of selecting a wardrobe](./q_057/README.md)
   * [Question 58 - Longest palindrome substring](./q_058/README.md)
   * [Question 59 - Chipotle item analysis](./q_059/README.md)
-  * [Question 60 - ???](./q_060/README.md)
+  * [Question 60 - Choosing two ice creams](./q_060/README.md)
   * [Question 61 - Ranking vendors by spend](./q_061/README.md)
   * [Question 62 - ???](./q_062/README.md)
   * [Question 63 - Baby names](./q_063/README.md)
