@@ -75,7 +75,7 @@ the details in later if I manage to get hold of it.
   * [Question 59 - Chipotle item analysis](./q_059/README.md)
   * [Question 60 - Choosing two ice creams](./q_060/README.md)
   * [Question 61 - Ranking vendors by spend](./q_061/README.md)
-  * [Question 62 - ???](./q_062/README.md)
+  * [Question 62 - Subarray sums](./q_062/README.md)
   * [Question 63 - Baby names](./q_063/README.md)
   * [Question 64 - Reddit posts and comments](./q_064/README.md)
   * [Question 65 - Rolling 10 times](./q_065/README.md)
