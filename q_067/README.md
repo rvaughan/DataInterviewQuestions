@@ -13,3 +13,5 @@ is between 2018-09-01 and 2018-10-13 (inclusive):
 | 4 | vendor_diagram | 2018-08-21 | 23334 |
 | 5 | venny | 2018-08-13 | 94843 |
 | 6 | vendtriloquist | 2018-10-29 | 23444 |
+
+[Click here](https://colab.research.google.com/drive/1p820UWOwceGUpWN3zs0nj4m6h3WLWYg0#scrollTo=H_IMNOsYLt2I) to view this problem in an interactive Colab (Jupyter) notebook.
