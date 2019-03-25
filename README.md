@@ -134,3 +134,4 @@ the details in later if I manage to get hold of it.
   * [Question 118 - ???](./q_118/README.md)
   * [Question 119 - Chipotle item analysis (part 2)](./q_119/README.md)
   * [Question 120 - Student GPA by subject](./q_120/README.md)
+  * [Question 121 - Rainy flights](./q_121/README.md)
