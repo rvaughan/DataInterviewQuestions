@@ -136,3 +136,4 @@ the details in later if I manage to get hold of it.
   * [Question 120 - Student GPA by subject](./q_120/README.md)
   * [Question 121 - Rainy flights](./q_121/README.md)
   * [Question 122 - Middle matrix sums](./q_122/README.md)
+  * [Question 123 - Normalizing student grades with Pandas, revisited](./q_123/README.md)
