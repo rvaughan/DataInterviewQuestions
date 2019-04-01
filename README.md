@@ -137,3 +137,4 @@ the details in later if I manage to get hold of it.
   * [Question 121 - Rainy flights](./q_121/README.md)
   * [Question 122 - Middle matrix sums](./q_122/README.md)
   * [Question 123 - Normalizing student grades with Pandas, revisited](./q_123/README.md)
+  * [Question 118 - Monthly revenue growth in SQL for Online channel](./q_124/README.md)
