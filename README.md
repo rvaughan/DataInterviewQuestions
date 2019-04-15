@@ -143,3 +143,4 @@ the details in later if I manage to get hold of it.
   * [Question 127 - Animal classification with python](./q_127/README.md)
   * [Question 128 - Adult animal weights](./q_128/README.md)
   * [Question 129 - Biased coin toss](./q_129/README.md)
+  * [Question 130 - Pythagorean triplet](./q_130/README.md)
