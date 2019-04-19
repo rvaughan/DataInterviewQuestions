@@ -145,3 +145,4 @@ the details in later if I manage to get hold of it.
   * [Question 129 - Biased coin toss](./q_129/README.md)
   * [Question 130 - Pythagorean triplet](./q_130/README.md)
   * [Question 131 - Candy production increase](./q_131/README.md)
+  * [Question 132 - Querying San Francisco public worker salaries](./q_132/README.md)
