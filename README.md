@@ -149,3 +149,4 @@ the details in later if I manage to get hold of it.
   * [Question 133 - Second price (Vickrey) auction](./q_133/README.md)
   * [Question 134 - Arrays of arrays](./q_134/README.md)
   * [Question 135 - Volume weighted price average (VWAP)](./q_135/README.md)
+  * [Question 136 - Chocolate Bar Reviews](./q_136/README.md)
