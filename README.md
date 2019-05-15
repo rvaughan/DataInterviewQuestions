@@ -155,3 +155,4 @@ the details in later if I manage to get hold of it.
   * [Question 139 - Plotting daily earnings (given balances)](./q_139/README.md)
   * [Question 140 - Top Earners](./q_140/README.md)
   * [Question 141 - One Way ANOVA](./q_141/README.md)
+  * [Question 142 - Smallest subarray with a sum greater than X](./q_142/README.md)
