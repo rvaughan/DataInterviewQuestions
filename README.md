@@ -158,3 +158,4 @@ the details in later if I manage to get hold of it.
   * [Question 142 - Smallest subarray with a sum greater than X](./q_142/README.md)
   * [Question 143 - Formatting dirty data](./q_143/README.md)
   * [Question 144 - Formatting dirty data (continued)](./q_144/README.md)
+  * [Question 145 - Similarity Matrix and Heat Chart](./q_145/README.md)
