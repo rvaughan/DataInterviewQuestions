@@ -161,3 +161,4 @@ the details in later if I manage to get hold of it.
   * [Question 145 - Similarity Matrix and Heat Chart](./q_145/README.md)
   * [Question 146 - Smallest, unrepresented integer](./q_146/README.md)
   * [Question 147 - Filtering strings in Pandas dataframes](./q_147/README.md)
+  * [Question 148 - Filtering grades based on city avg, in SQL](./q_148/README.md)
