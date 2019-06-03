@@ -1,5 +1,13 @@
-# Counting numbers, letters, and other things from a text file
+# Multiply array values, return the remainder
 
-Write a function that can take in a text file and return the number of characters in the file that are alphabetic, numeric, or other non space characters. The input to the function will be the string location of the text file (assume that this location string will pull up the text file).
+Given an array of varying length containing multiple #s, and a number x. Write a short program in python find the remainder of the array multiplication divided by x. For example, given the following: 
 
-For a hint, see this [webpage](https://docs.python.org/2/library/stdtypes.html).
+```bash
+array = [5,2,4,1,5] 
+x = 6 
+```
+
+We would calculate output as such:
+```bash
+52415 = 200 % 6 = 2
+```

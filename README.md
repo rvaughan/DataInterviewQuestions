@@ -163,4 +163,4 @@ the details in later if I manage to get hold of it.
   * [Question 147 - Filtering strings in Pandas dataframes](./q_147/README.md)
   * [Question 148 - Filtering grades based on city avg, in SQL](./q_148/README.md)
   * [Question 149 - Testing impact of exercise on memory](./q_149/README.md)
-  * [Question 150 - Counting numbers, letters, and other things from a text file](./q_150/README.md)
+  * [Question 150 - Multiply array values, return the remainder](./q_150/README.md)
