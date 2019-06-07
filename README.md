@@ -164,3 +164,4 @@ the details in later if I manage to get hold of it.
   * [Question 148 - Filtering grades based on city avg, in SQL](./q_148/README.md)
   * [Question 149 - Testing impact of exercise on memory](./q_149/README.md)
   * [Question 150 - Multiply array values, return the remainder](./q_150/README.md)
+  * [Question 151 - PCA, Inertia, and Silhouette Plots](./q_151/README.md)
