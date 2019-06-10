@@ -113,7 +113,7 @@ the details in later if I manage to get hold of it.
   * [Question 97 - Life expectancy, revisited](./q_097/README.md)
   * [Question 98 - Counting numbers, letters, and other things from a text file](./q_098/README.md)
   * [Question 99 - Plotting stock prices](./q_099/README.md)
-  * [Question 100 - ???](./q_100/README.md)
+  * [Question 100 - Reddit comment activity](./q_100/README.md)
   * [Question 101 - Pricing a Coin Toss](./q_101/README.md)
   * [Question 102 - ???](./q_102/README.md)
   * [Question 103 - Cleaning termination dates](./q_103/README.md)
