@@ -165,3 +165,4 @@ the details in later if I manage to get hold of it.
   * [Question 149 - Testing impact of exercise on memory](./q_149/README.md)
   * [Question 150 - Multiply array values, return the remainder](./q_150/README.md)
   * [Question 151 - PCA, Inertia, and Silhouette Plots](./q_151/README.md)
+  * [Question 152 - Clustering function](./q_152/README.md)
