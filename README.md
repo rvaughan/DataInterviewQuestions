@@ -170,3 +170,4 @@ the details in later if I manage to get hold of it.
   * [Question 154 - MSE vs RMSE](./q_154/README.md)
   * [Question 155 - Calculating max distance between array elements in Python](./q_155/README.md)
   * [Question 156 - World Leader Exits](./q_156/README.md)
+  * [Question 157 - Company acquisitions](./q_157/README.md)
