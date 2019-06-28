@@ -173,3 +173,4 @@ the details in later if I manage to get hold of it.
   * [Question 157 - Company acquisitions](./q_157/README.md)
   * [Question 158 - Ads in a newsfeed](./q_158/README.md)
   * [Question 159 - Monotonic array](./q_159/README.md)
+  * [Question 160 - Leader life expectancy](./q_160/README.md)
