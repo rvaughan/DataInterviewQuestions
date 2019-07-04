@@ -1,1 +1,3 @@
-# ???
+# Customer frequency -- a multi-question problem
+
+On a scale of 1-3, 1 being least valuable and 3 being most valuable, can you classify customers based on order frequency? For example, a customer who has made 10 purchases is more valuable than one that has made 2 purchases across the same time period. You can download the data [here](https://drive.google.com/file/d/1vvnaJ9KErXx2zI47IBytR_tHGijtJBE6/view). For more information regarding customer lifetime value you can read [this post](https://www.shopify.com/blog/customer-lifetime-value). The solution will be provided to premium subscribers in Python. Note that this question is a part of a series of questions that will build off of each other.
