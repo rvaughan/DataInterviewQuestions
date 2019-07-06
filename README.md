@@ -176,3 +176,4 @@ the details in later if I manage to get hold of it.
   * [Question 160 - Leader life expectancy](./q_160/README.md)
   * [Question 161 - A hotel chain's loyal customers](./q_161/README.md)
   * [Question 162 - Overfitting vs. underfitting](./q_162/README.md)
+  * [Question 163 - Counting the distance between words in Python](./q_163/README.md)
