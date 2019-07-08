@@ -177,3 +177,4 @@ the details in later if I manage to get hold of it.
   * [Question 161 - A hotel chain's loyal customers](./q_161/README.md)
   * [Question 162 - Overfitting vs. underfitting](./q_162/README.md)
   * [Question 163 - Counting the distance between words in Python](./q_163/README.md)
+  * [Question 164 - Cereal ratings](./q_164/README.md)
