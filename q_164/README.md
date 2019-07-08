@@ -1,6 +1,6 @@
 # Cereal ratings
 
-Suppose you have the following data set**, which is a list of 80 cereals that contains the following fields:
+Suppose you have the following [data set](./dataset/cereal.csv), which is a list of 80 cereals that contains the following fields:
 
   * mfr: Manufacturer of cereal
     * A = American Home Food Products
