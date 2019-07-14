@@ -179,3 +179,4 @@ the details in later if I manage to get hold of it.
   * [Question 163 - Counting the distance between words in Python](./q_163/README.md)
   * [Question 164 - Cereal ratings](./q_164/README.md)
   * [Question 165 - College interview results](./q_165/README.md)
+  * [Question 166 - Cereal ratings: top 3 variables](./q_166/README.md)
